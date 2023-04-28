@@ -1,7 +1,7 @@
 # Projects overview table
 
 | Project Name | Description | Technologies Used | Year | 
-| -------- | -------- | ---------- | -------- |
+| -------- | -------- | --------- | -------- |
 | [Minimal Landing Page](https://github.com/NilArj/minimal_page) | Minimal is a landing page for a constructor company | - HTML<br> - JavaScript<br>  - Css<br> | 2023 |
 | [Password Generator](https://github.com/NilArj/password) | It is a page that generate passwords | - HTML<br> - JavaScript<br>  - Css<br> | 2023 | 
 | [Weather page](https://github.com/NilArj/weather-app)]| This page view current weather conditions for a specified location | - HTML<br> - JavaScript<br>  - Css<br> - Weather API<br> | 2023|
