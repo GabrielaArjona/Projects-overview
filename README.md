@@ -1,4 +1,4 @@
-# Projects overview table
+# Projects summary table
 
 | Project Name | Description | Technologies Used | Year | 
 | -------- | -------- | -------- | -------- |
