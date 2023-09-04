@@ -2,6 +2,7 @@
 
 | Project Name | Description | Technologies Used | Year | 
 | -------- | -------- | -------- | -------- |
+| [Coffee Shop Analysis](https://github.com/NilArj/Coffee-Shop) | This project focuses on analyzing sales data from a coffee shop to derive insights| - Excel<br> | 2023 |
 | [Data Science Job Posting](https://github.com/NilArj/Data-Jobs) | This project focuses on cleaning and transforming a dataset to prepare it for analysis | - Excel<br> | 2023 |
 | [Pizza Analysis](https://github.com/NilArj/Pizza-Analysis) | The primary objective of this project is to gain valuable insights from pizza sales data, focusing on key metrics | - Python<br> - MySQL<br> - Tableau<br> | 2023 |
 | [Shopping Analysis](https://github.com/NilArj/Shopping-Behaviors-Analysis/blob/main/README.md) | Explore and analyze a dataset containing simulated shopping behaviors | - Python<br> - Numpy<br> - Pandas<br> - Seaborn<br> - Matplotlib<br> - Calendar<br> | 2023 |
