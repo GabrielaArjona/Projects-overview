@@ -2,6 +2,7 @@
 
 | Project Name | Description | Technologies Used | Year | 
 | -------- | -------- | -------- | -------- |
+| [Amazon 2022 RFM Analysis](https://github.com/NilArj/Amazon_sales) | An in-depth RFM (Recency, Frequency, and Monetary) analysis of Amazon sales using Excel. This project provides valuable insights into customer segmentation. | - Excel<br> | 2023 |
 | [Coffee Shop Analysis](https://github.com/NilArj/Coffee-Shop) | This Excel-based project is dedicated to the analysis of sales data obtained from a coffee shop, and its primary purpose is to uncover valuable insights, which will be presented through an interactive dashboard| - Excel<br> | 2023 |
 | [Data Science Job Posting](https://github.com/NilArj/Data-Jobs) | This project is centered around Excel and its primary objective is to perform data cleaning and transformation tasks in preparation for analysis | - Excel<br> | 2023 |
 | [Pizza Analysis](https://github.com/NilArj/Pizza-Analysis) | This is an SQL-based project that prioritizes the extraction of valuable insights from pizza sales data | - MySQL<br> - Tableau<br> - Python<br>  | 2023 |
