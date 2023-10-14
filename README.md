@@ -2,6 +2,7 @@
 
 | Project Name | Description | Technologies Used | Year | 
 | -------- | -------- | -------- | -------- |
+| [La Más Draga Data Science Project](https://github.com/NilArj/drag_show) | An exciting data science project focused on "La Más Draga," a Mexican version of RuPaul's Drag Race. This project involves web scraping, data extraction, preprocessing, and the creation of machine learning models to predict if contestants could win the competition. | - Python<br>  - MySQL<br> | 2023 |
 | [Google Play App Development Analysis](https://github.com/NilArj/Google_play) | An in-depth SQL-based data analysis project for optimizing the development of a successful Android app. This project aims to answer critical questions related to app categories, pricing strategies, and user ratings to make informed decisions. | - MySQL<br> - Python<br>  | 2023 |
 | [Amazon 2022 RFM Analysis](https://github.com/NilArj/Amazon_sales) | An in-depth RFM (Recency, Frequency, and Monetary) analysis of Amazon sales using Excel. This project provides valuable insights into customer segmentation. | - Excel<br> | 2023 |
 | [Coffee Shop Analysis](https://github.com/NilArj/Coffee-Shop) | This Excel-based project is dedicated to the analysis of sales data obtained from a coffee shop, and its primary purpose is to uncover valuable insights, which will be presented through an interactive dashboard| - Excel<br> | 2023 |
