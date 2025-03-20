@@ -2,6 +2,7 @@
 
 | Project Name | Description | Technologies Used | Year | 
 | -------- | -------- | -------- | -------- |
+| [Microsoft Entra ID (Azure AD) IAM Implementation](https://github.com/GabrielaArjona/azure-iam-demobank) | IAM (Identity and Access Management) solution to streamline user access, reduce unnecessary privileges, and improve security. | - Azure<br> | 2025 |
 | [Predicting Mexico's Economic Growth](https://github.com/NilArj/Predicting-Mexico-s-Economic-Growth) | A data science project focused on predicting Mexico's economic growth utilizing Python and machine learning techniques. The project involves data cleaning, linear regression modeling, and forecasting based on Banco de Mexico's dataset. | - Python<br> | 2023 |
 | [La Más Draga Data Science Project](https://github.com/NilArj/drag_show) | An exciting data science project focused on "La Más Draga," a Mexican version of RuPaul's Drag Race. This project involves web scraping, ETL , and SQL analysis. Additionally, machine learning models were created to predict if contestants could win the competition. | - Python<br>  - MySQL<br> | 2023 |
 | [Google Play App Development Analysis](https://github.com/NilArj/Google_play) | An in-depth SQL-based data analysis project for optimizing the development of a successful Android app. This project aims to answer critical questions related to app categories, pricing strategies, and user ratings to make informed decisions. | - MySQL<br> - Power BI<br> - Python<br>  | 2023 |
