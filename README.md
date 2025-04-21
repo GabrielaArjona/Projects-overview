@@ -2,7 +2,7 @@
 
 | Project Name | Description | Technologies Used | Year | 
 | -------- | -------- | -------- | -------- |
-| [Privileged Identity Management (PIM) + Terraform – DemoBank](https://github.com/GabrielaArjona/azure-iam-demobank) | Zero‑Standing‑Privilege model: JIT admin roles, MFA & full audit, all identities codified in Terraform. |- Azure AD (P2)<br> - Terraform<br> - Powershell | 2025 |
+| [Privileged Identity Management (PIM) + Terraform + Microsoft Sentinel – DemoBank](https://github.com/GabrielaArjona/azure-iam-demobank) | Zero‑Standing‑Privilege model: JIT admin roles, MFA & full audit, monitoring via Sentinel, all identities codified in Terraform. |- Azure AD (P2)<br> - Terraform<br> - Microsoft Sentinel<br> - Powershell | 2025 |
 | [SSO Project: Auth0 (IdP) + Azure AD (SP)](https://github.com/GabrielaArjona/SSO_Auth0_Azure) | Built cross‑platform SAML SSO, proving Auth0 federation into Microsoft Entra; trial tiers, no CA. | - Azure AD<br> - Auth0<br> - SAML | 2025 |
 | [Microsoft Entra ID (Azure AD) IAM Baseline - DemoBank](https://github.com/GabrielaArjona/azure-iam-demobank) | Groups, RBAC, MFA enforcement; foundation for secure FinTech workloads. |- Azure AD<br> - RBAC<br> - MFA | 2025 |
 | [Predicting Mexico's Economic Growth](https://github.com/NilArj/Predicting-Mexico-s-Economic-Growth) | A data science project focused on predicting Mexico's economic growth utilizing Python and machine learning techniques. The project involves data cleaning, linear regression modeling, and forecasting based on Banco de Mexico's dataset. | Python<br> | 2023 |
