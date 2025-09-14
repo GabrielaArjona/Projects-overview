@@ -3,6 +3,7 @@
 
 | Category | Project | Year | Role/Scope | Tech | Outcome/Impact (brief) | Evidence (present / planned) |
 |---|---|---|---|---|---|---|
+| GRC/Evidence | [Don Control Pizzas (Access, Availability, Retention)](https://github.com/GabrielaArjona/Don_control) | 2025 | “End-to-end GRC demo” signals portfolio project, not production. | Mix frameworks + implementation (Python + policies/notebooks). | Shows tangible, audit-friendly outputs instead of just tasks. | README; ledger.csv and crosswalks |
 | IAM/SSO | [Privileged Identity Management (PIM) + Terraform + Microsoft Sentinel — DemoBank](https://github.com/GabrielaArjona/azure-iam-demobank) | 2025 | JIT admin, IaC, SIEM detections | Microsoft Entra ID (Azure AD) P2, PIM, Terraform, Microsoft Sentinel, PowerShell, KQL | Zero standing privilege; MFA on roles; full audit trail | README; PIM configs ; Terraform modules; |
 | IAM/SSO | [SSO Project: Auth0 (IdP) + Azure AD (SP)](https://github.com/GabrielaArjona/SSO_Auth0_Azure) | 2025 | IdP↔SP federation, SAML assertions, break-glass | Auth0, Microsoft Entra ID (Azure AD), SAML | Single sign-on validated; attribute mapping; break-glass tested | README; test plan |
 | IAM/SSO | [Microsoft Entra ID (Azure AD) IAM Baseline — DemoBank](https://github.com/GabrielaArjona/azure-iam-demobank) | 2025 | RBAC groups, MFA policy, emergency access | Microsoft Entra ID, RBAC, MFA | Standardized groups; MFA enforced; emergency access documented | RBAC matrix; MFA policy |
